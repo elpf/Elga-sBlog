@@ -27,7 +27,7 @@ This web project, named "Elga's Blog," is designed to provide readers with valua
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/elpf/elga-web.git
+   git clone https://github.com/elpf/Elga-sBlog.git
 Open the project in your preferred code editor.
 
 Launch the index.html file in a web browser to view the website locally.
